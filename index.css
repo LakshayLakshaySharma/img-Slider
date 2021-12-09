@@ -1,0 +1,33 @@
+*{
+    margin : 0;
+    padding : 0;
+  }
+  
+  body{
+    text-align : center;
+    background-color :rgb(255, 255, 0);
+  }
+  
+  h1{
+    font-size :78px;
+    font-family :cursive;
+    text-shadow :2px 2px 2px blue;
+  }
+  
+  #image{
+    width :350px;
+    height :350px;
+    padding-bottom :20px;
+  }
+  
+  button{
+    font-family :arial;
+    font-size :30px;
+    border :none;
+    padding :10px;
+    color :#fff;
+    background-color :rgba(0,0,200,0.6);
+    border-radius :10px;
+  }
+
+  
